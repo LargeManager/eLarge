@@ -165,9 +165,15 @@ You can safely query AI tools without exposing sensitive business logic.
 **eLarge** redefines how we interact with code — transforming editing into a semantic, language-agnostic, AI-augmented process.
 
 # preview
+
 ![](preview/create_function.gif)
+
 ![](preview/swap_function.gif)
+
 ![](preview/delete_function.gif)
+
 ![](preview/function_syntax_handling.gif)
+
 ![](preview/required_function_chunk.gif)
+
 ![](preview/syntax_transpiler.gif)
