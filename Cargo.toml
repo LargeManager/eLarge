@@ -1,0 +1,16 @@
+[package]
+name = "elarge"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color-eyre = "0.6.5"
+crossterm = "0.29.0"
+ratatui = "0.29.0"
+ropey = "1.6.1"
+regex = "1.11.3"
+logos = "0.15.1"
+serde = { version = "1.0.228", features = ["derive"] }
+strum = { version = "0.27", features = ["derive", "strum_macros"] }
+serde_json = "1.0.145"
+toml = "*"
